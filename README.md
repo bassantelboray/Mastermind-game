@@ -12,4 +12,4 @@ A Java implementation of the classic Mastermind game, built using Object-Oriente
 ## 📂 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bassantelboray/Mastermind-Game-Java-OOP.git
+   git clone https://github.com/bassantelboray/Mastermind-game.git
